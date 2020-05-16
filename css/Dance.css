@@ -90,10 +90,10 @@ section h1{
 }
 section h2{
   font-weight: lighter;
-  opacity:0.5;
+  opacity:0.6;
   padding:15px 0;
   margin:10px;
-  /* font-family: 'Open Sans Condensed', sans-serif; */
+  font-family: 'Comic Sans MS';
 
 }
 .section-performance{
@@ -133,7 +133,9 @@ section h2{
 .list-type{
 margin-bottom: 500px;
 }
-
+.list-type-pc{
+  margin-bottom: 600px;
+}
 /*--- Meet the team --- */
 .row{
     margin:25px 30px;
