@@ -80,10 +80,11 @@ html {
   }
   section h2{
     font-weight: lighter;
-    opacity:0.5;
+    opacity:0.6;
     padding:15px 0;
     margin:10px;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Comic Sans MS';
+  
   }
   .section-header{
     padding:15px 0;
